@@ -1,0 +1,13 @@
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\bin\Debug\RecipeProject_CSharp.exe.config
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\bin\Debug\RecipeProject_CSharp.exe
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\bin\Debug\RecipeProject_CSharp.pdb
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\obj\Debug\RecipeProject_CSharp.csproj.AssemblyReference.cache
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\obj\Debug\RecipeProject_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\obj\Debug\RecipeProject_CSharp.AddIngredForm.resources
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\obj\Debug\RecipeProject_CSharp.Form1.resources
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\obj\Debug\RecipeProject_CSharp.Properties.Resources.resources
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\obj\Debug\RecipeProject_CSharp.csproj.GenerateResource.cache
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\obj\Debug\RecipeProject_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\obj\Debug\RecipeProject_CSharp.exe
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\obj\Debug\RecipeProject_CSharp.pdb
+C:\Users\Jace\source\repos\RecipeProject_CSharp\RecipeProject_CSharp\obj\Debug\RecipeProject_CSharp.EditItemForm.resources
